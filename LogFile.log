@@ -1,0 +1,779 @@
+[INFO] [30_06_22      08:25]                                                                                           
+[INFO] [30_06_22      08:25]  --------------------------------- Test Case 1 -----------------------------------
+[INFO] [30_06_22      08:25]  ***************************************************************************************** 
+[INFO] [30_06_22      08:25] General information is printing 
+[INFO] [30_06_22      08:25]  Chrome browser invoked successfully
+[INFO] [30_06_22      08:25] Test case failed due to expected messages is differed 
+[INFO] [30_06_22      08:25] The given data is not correct, hence using this data for execution
+[INFO] [30_06_22      08:25] Data base filled hence further execution is not possible
+[INFO] [30_06_22      08:25]  ######################################################################## 
+[INFO] [30_06_22      08:25]                                                                                           
+[INFO] [30_06_22      08:25]  --------------------------------- Test Case 1 -----------------------------------
+[INFO] [30_06_22      08:25]  ***************************************************************************************** 
+[INFO] [30_06_22      08:25] General information is printing 
+[INFO] [30_06_22      08:25]  Chrome browser invoked successfully
+[INFO] [30_06_22      08:25] Test case failed due to expected messages is differed 
+[INFO] [30_06_22      08:25] The given data is not correct, hence using this data for execution
+[INFO] [30_06_22      08:25] Data base filled hence further execution is not possible
+[INFO] [30_06_22      08:25]  ######################################################################## 
+[INFO] [30_06_22      08:25]                                                                                           
+[INFO] [30_06_22      08:25]  --------------------------------- userID Field Validation -----------------------------------
+[INFO] [30_06_22      08:25]  ***************************************************************************************** 
+[INFO] [30_06_22      08:25] Chrome invoked successfully
+[INFO] [30_06_22      08:25] The gmail url https://gmail.com is invoked successfully
+[INFO] [30_06_22      08:25] Entered valid userName in the text box 
+[INFO] [30_06_22      08:25] Epected title is displaying in the gmail home page
+[INFO] [30_06_22      08:25] Entered Valid userName int he text box
+[INFO] [30_06_22      08:25] Expected title is not displaying hence, test case will fail
+[INFO] [30_06_22      08:25]  ######################################################################## 
+[INFO] [30_06_22      08:28]                                                                                           
+[INFO] [30_06_22      08:28]  --------------------------------- Test Case 1 -----------------------------------
+[INFO] [30_06_22      08:28]  ***************************************************************************************** 
+[INFO] [30_06_22      08:28] General information is printing 
+[INFO] [30_06_22      08:28]  Chrome browser invoked successfully
+[INFO] [30_06_22      08:28] Test case failed due to expected messages is differed 
+[INFO] [30_06_22      08:28] The given data is not correct, hence using this data for execution
+[INFO] [30_06_22      08:28] Data base filled hence further execution is not possible
+[INFO] [30_06_22      08:28]  ######################################################################## 
+[INFO] [30_06_22      08:28]                                                                                           
+[INFO] [30_06_22      08:28]  --------------------------------- Test Case 2 -----------------------------------
+[INFO] [30_06_22      08:28]  ***************************************************************************************** 
+[INFO] [30_06_22      08:28] General information is printing 
+[INFO] [30_06_22      08:28]  Chrome browser invoked successfully
+[INFO] [30_06_22      08:28] Test case failed due to expected messages is differed 
+[INFO] [30_06_22      08:28] The given data is not correct, hence using this data for execution
+[INFO] [30_06_22      08:28] Data base filled hence further execution is not possible
+[INFO] [30_06_22      08:28]  ######################################################################## 
+[INFO] [30_06_22      08:28]                                                                                           
+[INFO] [30_06_22      08:28]  --------------------------------- userID Field Validation -----------------------------------
+[INFO] [30_06_22      08:28]  ***************************************************************************************** 
+[INFO] [30_06_22      08:28] Chrome invoked successfully
+[INFO] [30_06_22      08:28] The gmail url https://gmail.com is invoked successfully
+[INFO] [30_06_22      08:28] Entered valid userName in the text box 
+[INFO] [30_06_22      08:28] Epected title is displaying in the gmail home page
+[INFO] [30_06_22      08:28] Entered Valid userName int he text box
+[INFO] [30_06_22      08:28] Expected title is not displaying hence, test case will fail
+[INFO] [30_06_22      08:28]  ######################################################################## 
+[INFO] [01_07_22      07:37]                                                                                           
+[INFO] [01_07_22      07:37]  --------------------------------- Test Case 1 -----------------------------------
+[INFO] [01_07_22      07:37]  ***************************************************************************************** 
+[INFO] [01_07_22      07:37] General information is printing 
+[INFO] [01_07_22      07:37]  Chrome browser invoked successfully
+[INFO] [01_07_22      07:37] Test case failed due to expected messages is differed 
+[INFO] [01_07_22      07:37] The given data is not correct, hence using this data for execution
+[INFO] [01_07_22      07:37] Data base filled hence further execution is not possible
+[INFO] [01_07_22      07:37]  ######################################################################## 
+[INFO] [01_07_22      07:37]                                                                                           
+[INFO] [01_07_22      07:37]  --------------------------------- Test Case 2 -----------------------------------
+[INFO] [01_07_22      07:37]  ***************************************************************************************** 
+[INFO] [01_07_22      07:37] General information is printing 
+[INFO] [01_07_22      07:37]  Chrome browser invoked successfully
+[INFO] [01_07_22      07:37] Test case failed due to expected messages is differed 
+[INFO] [01_07_22      07:37] The given data is not correct, hence using this data for execution
+[INFO] [01_07_22      07:37] Data base filled hence further execution is not possible
+[INFO] [01_07_22      07:37]  ######################################################################## 
+[INFO] [01_07_22      07:37]                                                                                           
+[INFO] [01_07_22      07:37]  --------------------------------- userID Field Validation -----------------------------------
+[INFO] [01_07_22      07:37]  ***************************************************************************************** 
+[INFO] [01_07_22      07:37] Chrome invoked successfully
+[INFO] [01_07_22      07:37] The gmail url https://gmail.com is invoked successfully
+[INFO] [01_07_22      07:37] Entered valid userName in the text box 
+[INFO] [01_07_22      07:37] Epected title is displaying in the gmail home page
+[INFO] [01_07_22      07:37] Entered Valid userName int he text box
+[INFO] [01_07_22      07:37] Expected title is not displaying hence, test case will fail
+[INFO] [01_07_22      07:37]  ######################################################################## 
+[INFO] [01_07_22      07:38]                                                                                           
+[INFO] [01_07_22      07:38]  --------------------------------- Test Case 1 -----------------------------------
+[INFO] [01_07_22      07:38]  ***************************************************************************************** 
+[INFO] [01_07_22      07:38] General information is printing 
+[INFO] [01_07_22      07:38]  Chrome browser invoked successfully
+[INFO] [01_07_22      07:38] Test case failed due to expected messages is differed 
+[INFO] [01_07_22      07:38] The given data is not correct, hence using this data for execution
+[INFO] [01_07_22      07:38] Data base filled hence further execution is not possible
+[INFO] [01_07_22      07:38]  ######################################################################## 
+[INFO] [01_07_22      07:38]                                                                                           
+[INFO] [01_07_22      07:38]  --------------------------------- Test Case 2 -----------------------------------
+[INFO] [01_07_22      07:38]  ***************************************************************************************** 
+[INFO] [01_07_22      07:38] General information is printing 
+[INFO] [01_07_22      07:38]  Chrome browser invoked successfully
+[INFO] [01_07_22      07:38] Test case failed due to expected messages is differed 
+[INFO] [01_07_22      07:38] The given data is not correct, hence using this data for execution
+[INFO] [01_07_22      07:38] Data base filled hence further execution is not possible
+[INFO] [01_07_22      07:38]  ######################################################################## 
+[INFO] [01_07_22      07:38]                                                                                           
+[INFO] [01_07_22      07:38]  --------------------------------- userID Field Validation -----------------------------------
+[INFO] [01_07_22      07:38]  ***************************************************************************************** 
+[INFO] [01_07_22      07:38] Chrome invoked successfully
+[INFO] [01_07_22      07:38] The gmail url https://gmail.com is invoked successfully
+[INFO] [01_07_22      07:38] Entered valid userName in the text box 
+[INFO] [01_07_22      07:38] Epected title is displaying in the gmail home page
+[INFO] [01_07_22      07:38] Entered Valid userName int he text box
+[INFO] [01_07_22      07:38] Expected title is not displaying hence, test case will fail
+[INFO] [01_07_22      07:38]  ######################################################################## 
+[INFO] [18_07_22      09:12] 2022/07/18 21:12:42
+[INFO] [18_07_22      09:12] 0718211242
+[INFO] [18_07_22      09:14] 2022/07/18 21:14:07
+[INFO] [18_07_22      09:14] 0718211407
+[INFO] [18_07_22      09:14] null failed to invoke due to java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "Browser" is null
+[INFO] [18_07_22      09:16] 2022/07/18 21:16:22
+[INFO] [18_07_22      09:16] 0718211622
+[INFO] [18_07_22      09:16] chromeinvoked successfully
+[INFO] [18_07_22      09:16] https://uibank.uipath.com/invoked successfully
+[INFO] [18_07_22      09:16] Browser closed successfully
+[INFO] [18_07_22      09:18] 2022/07/18 21:18:23
+[INFO] [18_07_22      09:18] 0718211823
+[INFO] [18_07_22      09:18] chromeinvoked successfully
+[INFO] [18_07_22      09:18] https://uibank.uipath.com/invoked successfully
+[INFO] [18_07_22      09:18] Login actions failed due to :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because the return value of "org.Selenium.batchNo32.Utility.Utility.getLocator(String)" is null
+[INFO] [18_07_22      09:18] Browser closed successfully
+[INFO] [18_07_22      09:21] 2022/07/18 21:21:19
+[INFO] [18_07_22      09:21] 0718212119
+[INFO] [18_07_22      09:21] chromeinvoked successfully
+[INFO] [18_07_22      09:21] https://uibank.uipath.com/invoked successfully
+[INFO] [18_07_22      09:21] Login actions failed due to :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because the return value of "org.Selenium.batchNo32.Utility.Utility.getLocator(String)" is null
+[INFO] [18_07_22      09:21] Browser closed successfully
+[INFO] [18_07_22      09:26] 2022/07/18 21:26:07
+[INFO] [18_07_22      09:26] 0718212607
+[INFO] [18_07_22      09:26] chromeinvoked successfully
+[INFO] [18_07_22      09:26] https://uibank.uipath.com/invoked successfully
+[INFO] [18_07_22      09:26] Login actions failed due to :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because the return value of "org.Selenium.batchNo32.Utility.Utility.getLocator(String)" is null
+[INFO] [18_07_22      09:26] Browser closed successfully
+[INFO] [19_07_22      07:37] 2022/07/19 07:37:59
+[INFO] [19_07_22      07:37] 0719073759
+[INFO] [19_07_22      07:38] chromeinvoked successfully
+[INFO] [19_07_22      07:38] https://uibank.uipath.com/invoked successfully
+[INFO] [19_07_22      07:38] Login actions failed due to :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because the return value of "org.Selenium.batchNo32.Utility.Utility.getLocator(String)" is null
+[INFO] [19_07_22      07:38] Browser closed successfully
+[INFO] [19_07_22      07:40] 2022/07/19 07:40:55
+[INFO] [19_07_22      07:40] 0719074055
+[INFO] [19_07_22      07:41] chromeinvoked successfully
+[INFO] [19_07_22      07:41] https://uibank.uipath.com/invoked successfully
+[INFO] [19_07_22      07:41] Login actions failed due to :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because the return value of "org.Selenium.batchNo32.Utility.Utility.getLocator(String)" is null
+[INFO] [19_07_22      07:41] Browser closed successfully
+[INFO] [19_07_22      07:45] 2022/07/19 07:45:17
+[INFO] [19_07_22      07:45] 0719074517
+[INFO] [19_07_22      07:45] chromeinvoked successfully
+[INFO] [19_07_22      07:45] https://uibank.uipath.com/invoked successfully
+[INFO] [19_07_22      07:45] Login actions failed due to :java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because the return value of "org.Selenium.batchNo32.Utility.Utility.getLocator(String)" is null
+[INFO] [19_07_22      07:45] Browser closed successfully
+[INFO] [19_07_22      07:50] 2022/07/19 07:50:24
+[INFO] [19_07_22      07:50] 0719075024
+[INFO] [19_07_22      07:50] chromeinvoked successfully
+[INFO] [19_07_22      07:50] https://uibank.uipath.com/invoked successfully
+[INFO] [19_07_22      07:50] Login Actions completed successfully
+[INFO] [19_07_22      07:50] Browser closed successfully
+[INFO] [19_07_22      07:52] 2022/07/19 07:52:07
+[INFO] [19_07_22      07:52] 0719075207
+[INFO] [19_07_22      07:52] chromeinvoked successfully
+[INFO] [19_07_22      07:52] https://uibank.uipath.com/invoked successfully
+[INFO] [19_07_22      07:52] Login Actions completed successfully
+[INFO] [19_07_22      07:52] Browser closed successfully
+[INFO] [19_07_22      07:55] 2022/07/19 07:55:46
+[INFO] [19_07_22      07:55] 0719075546
+[INFO] [19_07_22      07:55] chromeinvoked successfully
+[INFO] [19_07_22      07:55] https://uibank.uipath.com/invoked successfully
+[INFO] [19_07_22      07:55] Login Actions completed successfully
+[INFO] [19_07_22      07:55] Browser closed successfully
+[INFO] [19_07_22      07:57] 2022/07/19 07:57:10
+[INFO] [19_07_22      07:57] 0719075710
+[INFO] [19_07_22      07:57] chromeinvoked successfully
+[INFO] [19_07_22      07:57] https://uibank.uipath.com/invoked successfully
+[INFO] [19_07_22      07:57] Login Actions completed successfully
+[INFO] [19_07_22      07:57] Browser closed successfully
+[INFO] [19_07_22      08:47] 2022/07/19 08:47:56
+[INFO] [19_07_22      08:47] 0719084756
+[INFO] [19_07_22      08:48] chromeinvoked successfully
+[INFO] [19_07_22      08:48] https://uibank.uipath.com/invoked successfully
+[INFO] [19_07_22      08:48] Login Actions completed successfully
+[INFO] [19_07_22      08:48] Browser closed successfully
+[INFO] [21_07_22      07:01] 2022/07/21 07:01:34
+[INFO] [21_07_22      07:01] 0721070134
+[INFO] [21_07_22      07:01] chromeinvoked successfully
+[INFO] [21_07_22      07:01] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:01] Test case passed
+[INFO] [21_07_22      07:01] Browser closed successfully
+[INFO] [21_07_22      07:01] chromeinvoked successfully
+[INFO] [21_07_22      07:01] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:01] Browser closed successfully
+[INFO] [21_07_22      07:01] chromeinvoked successfully
+[INFO] [21_07_22      07:01] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:01] Browser closed successfully
+[INFO] [21_07_22      07:02] chromeinvoked successfully
+[INFO] [21_07_22      07:02] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:02] Browser closed successfully
+[INFO] [21_07_22      07:02] chromeinvoked successfully
+[INFO] [21_07_22      07:02] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:02] Browser closed successfully
+[INFO] [21_07_22      07:15] 2022/07/21 07:15:14
+[INFO] [21_07_22      07:15] 0721071514
+[INFO] [21_07_22      07:15] chromeinvoked successfully
+[INFO] [21_07_22      07:15] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:15] Test case passed
+[INFO] [21_07_22      07:15] Browser closed successfully
+[INFO] [21_07_22      07:15] chromeinvoked successfully
+[INFO] [21_07_22      07:15] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:15] Browser closed successfully
+[INFO] [21_07_22      07:15] chromeinvoked successfully
+[INFO] [21_07_22      07:15] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:15] Browser closed successfully
+[INFO] [21_07_22      07:15] chromeinvoked successfully
+[INFO] [21_07_22      07:15] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:15] Browser closed successfully
+[INFO] [21_07_22      07:15] chromeinvoked successfully
+[INFO] [21_07_22      07:15] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:15] Browser closed successfully
+[INFO] [21_07_22      07:26] 2022/07/21 07:26:31
+[INFO] [21_07_22      07:26] 0721072631
+[INFO] [21_07_22      07:26] chromeinvoked successfully
+[INFO] [21_07_22      07:26] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:26] Test case passed
+[INFO] [21_07_22      07:26] Browser closed successfully
+[INFO] [21_07_22      07:26] chromeinvoked successfully
+[INFO] [21_07_22      07:26] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:26] Test case passed for invalid without un
+[INFO] [21_07_22      07:26] Browser closed successfully
+[INFO] [21_07_22      07:26] chromeinvoked successfully
+[INFO] [21_07_22      07:27] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:27] Test case passed for invalid without un
+[INFO] [21_07_22      07:27] Browser closed successfully
+[INFO] [21_07_22      07:27] chromeinvoked successfully
+[INFO] [21_07_22      07:27] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:27] Test case passed for invalid without un
+[INFO] [21_07_22      07:27] Browser closed successfully
+[INFO] [21_07_22      07:27] chromeinvoked successfully
+[INFO] [21_07_22      07:27] https://uibank.uipath.com/invoked successfully
+[INFO] [21_07_22      07:27] Test case passed for invalid without un
+[INFO] [21_07_22      07:27] Browser closed successfully
+[INFO] [22_07_22      07:36] 2022/07/22 07:36:28
+[INFO] [22_07_22      07:36] 0722073628
+[INFO] [22_07_22      07:36] chromeinvoked successfully
+[INFO] [22_07_22      07:36] https://uibank.uipath.com/invoked successfully
+[INFO] [22_07_22      07:36] Login Actions completed successfully
+[INFO] [22_07_22      07:36] Browser closed successfully
+[INFO] [25_07_22      07:14] 2022/07/25 07:14:09
+[INFO] [25_07_22      07:14] 0725071409
+[INFO] [25_07_22      07:14] chromeinvoked successfully
+[INFO] [25_07_22      07:14] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      07:14] Login Actions completed successfully
+[INFO] [25_07_22      07:14] Browser closed successfully
+[INFO] [25_07_22      07:24] 2022/07/25 07:24:38
+[INFO] [25_07_22      07:24] 0725072438
+[INFO] [25_07_22      07:24] chromeinvoked successfully
+[INFO] [25_07_22      07:24] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      07:24] Login Actions completed successfully
+[INFO] [25_07_22      07:24] Browser closed successfully
+[INFO] [25_07_22      07:26] 2022/07/25 07:26:21
+[INFO] [25_07_22      07:26] 0725072621
+[INFO] [25_07_22      07:26] chromeinvoked successfully
+[INFO] [25_07_22      07:26] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      07:26] Login Actions completed successfully
+[INFO] [25_07_22      07:26] Browser closed successfully
+[INFO] [25_07_22      07:26] chromeinvoked successfully
+[INFO] [25_07_22      07:26] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      07:26] Test case passed
+[INFO] [25_07_22      07:26] Browser closed successfully
+[INFO] [25_07_22      07:26] chromeinvoked successfully
+[INFO] [25_07_22      07:26] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      07:26] Test case passed for invalid without un
+[INFO] [25_07_22      07:26] Browser closed successfully
+[INFO] [25_07_22      07:26] chromeinvoked successfully
+[INFO] [25_07_22      07:26] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      07:27] Test case passed for invalid without un
+[INFO] [25_07_22      07:27] Browser closed successfully
+[INFO] [25_07_22      07:27] chromeinvoked successfully
+[INFO] [25_07_22      07:27] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      07:27] Test case passed for invalid without un
+[INFO] [25_07_22      07:27] Browser closed successfully
+[INFO] [25_07_22      07:27] chromeinvoked successfully
+[INFO] [25_07_22      07:27] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      07:27] Test case passed for invalid without un
+[INFO] [25_07_22      07:27] Browser closed successfully
+[INFO] [25_07_22      07:45] 2022/07/25 07:45:31
+[INFO] [25_07_22      07:45] 0725074531
+[INFO] [25_07_22      07:45] chromeinvoked successfully
+[INFO] [25_07_22      07:45] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      07:45] Login Actions completed successfully
+[INFO] [25_07_22      07:45] Browser closed successfully
+[INFO] [25_07_22      07:51] 2022/07/25 07:51:14
+[INFO] [25_07_22      07:51] 0725075114
+[INFO] [25_07_22      07:51] chromeinvoked successfully
+[INFO] [25_07_22      07:51] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      07:51] Login Actions completed successfully
+[INFO] [25_07_22      07:51] Browser closed successfully
+[INFO] [25_07_22      07:52] 2022/07/25 07:52:44
+[INFO] [25_07_22      07:52] 0725075244
+[INFO] [25_07_22      07:52] chromeinvoked successfully
+[INFO] [25_07_22      07:52] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      07:52] Login Actions completed successfully
+[INFO] [25_07_22      07:52] Browser closed successfully
+[INFO] [25_07_22      08:01] 2022/07/25 08:01:15
+[INFO] [25_07_22      08:01] 0725080115
+[INFO] [25_07_22      08:01] All files are invoked successfully
+[INFO] [25_07_22      08:01] chromeinvoked successfully
+[INFO] [25_07_22      08:01] https://uibank.uipath.com/invoked successfully
+[INFO] [25_07_22      08:01] Login Actions completed successfully
+[INFO] [25_07_22      08:01] Browser closed successfully
+[INFO] [26_07_22      07:11] 2022/07/26 07:11:36
+[INFO] [26_07_22      07:11] 0726071136
+[INFO] [26_07_22      07:11] All files are invoked successfully
+[INFO] [26_07_22      07:11] chromeinvoked successfully
+[INFO] [26_07_22      07:11] https://uibank.uipath.com/invoked successfully
+[INFO] [26_07_22      07:11] Login Actions completed successfully
+[INFO] [26_07_22      07:11] Browser closed successfully
+[INFO] [31_07_22      07:35] 2022/07/31 19:35:08
+[INFO] [31_07_22      07:35] 0731193508
+[INFO] [31_07_22      07:35] All files are invoked successfully
+[INFO] [31_07_22      07:35] chromeinvoked successfully
+[INFO] [31_07_22      07:35] https://uibank.uipath.com/invoked successfully
+[INFO] [31_07_22      07:35] Login Actions completed successfully
+[INFO] [31_07_22      07:35] Browser closed successfully
+[INFO] [31_07_22      07:43] 2022/07/31 19:43:11
+[INFO] [31_07_22      07:43] 0731194311
+[INFO] [31_07_22      07:43] All files are invoked successfully
+[INFO] [31_07_22      07:43] chromeinvoked successfully
+[INFO] [31_07_22      07:43] https://uibank.uipath.com/invoked successfully
+[INFO] [31_07_22      07:43] Test case passed
+[INFO] [31_07_22      07:43] Browser closed successfully
+[INFO] [31_07_22      07:43] chromeinvoked successfully
+[INFO] [31_07_22      07:43] https://uibank.uipath.com/invoked successfully
+[INFO] [31_07_22      07:43] Test case passed for invalid without un
+[INFO] [31_07_22      07:43] Browser closed successfully
+[INFO] [31_07_22      07:43] chromeinvoked successfully
+[INFO] [31_07_22      07:43] https://uibank.uipath.com/invoked successfully
+[INFO] [31_07_22      07:43] Test case passed for invalid without un
+[INFO] [31_07_22      07:43] Browser closed successfully
+[INFO] [31_07_22      07:43] chromeinvoked successfully
+[INFO] [31_07_22      07:43] https://uibank.uipath.com/invoked successfully
+[INFO] [31_07_22      07:43] Test case passed for invalid without un
+[INFO] [31_07_22      07:43] Browser closed successfully
+[INFO] [31_07_22      07:44] chromeinvoked successfully
+[INFO] [31_07_22      07:44] https://uibank.uipath.com/invoked successfully
+[INFO] [31_07_22      07:44] Test case passed for invalid without un
+[INFO] [31_07_22      07:44] Browser closed successfully
+[INFO] [08_08_22      07:38] 2022/08/08 07:38:45
+[INFO] [08_08_22      07:38] 0808073845
+[INFO] [08_08_22      07:38] All files are invoked successfully
+[INFO] [08_08_22      07:38] chromeinvoked successfully
+[INFO] [08_08_22      07:38] https://uibank.uipath.com/invoked successfully
+[INFO] [08_08_22      07:53] 2022/08/08 07:53:22
+[INFO] [08_08_22      07:53] 0808075322
+[INFO] [08_08_22      07:53] All files are invoked successfully
+[INFO] [08_08_22      07:53] chromeinvoked successfully
+[INFO] [08_08_22      07:53] https://uibank.uipath.com/invoked successfully
+[INFO] [08_08_22      07:53] Login Actions completed successfully
+[INFO] [08_08_22      07:53] Browser closed successfully
+[INFO] [17_08_22      08:22] 2022/08/17 08:22:12
+[INFO] [17_08_22      08:22] 0817082212
+[INFO] [17_08_22      08:22] All files are invoked successfully
+[INFO] [17_08_22      08:22] chromeinvoked successfully
+[INFO] [17_08_22      08:22] https://uibank.uipath.com/invoked successfully
+[INFO] [17_08_22      08:22] Test case passed
+[INFO] [17_08_22      08:22] Browser closed successfully
+[INFO] [17_08_22      08:22] chromeinvoked successfully
+[INFO] [17_08_22      08:22] https://uibank.uipath.com/invoked successfully
+[INFO] [17_08_22      08:22] Test case passed for invalid without un
+[INFO] [17_08_22      08:22] Browser closed successfully
+[INFO] [17_08_22      08:22] chromeinvoked successfully
+[INFO] [17_08_22      08:22] https://uibank.uipath.com/invoked successfully
+[INFO] [17_08_22      08:22] Test case passed for invalid without un
+[INFO] [17_08_22      08:22] Browser closed successfully
+[INFO] [17_08_22      08:22] chromeinvoked successfully
+[INFO] [17_08_22      08:23] https://uibank.uipath.com/invoked successfully
+[INFO] [17_08_22      08:23] Test case passed for invalid without un
+[INFO] [17_08_22      08:23] Browser closed successfully
+[INFO] [17_08_22      08:23] chromeinvoked successfully
+[INFO] [17_08_22      08:23] https://uibank.uipath.com/invoked successfully
+[INFO] [17_08_22      08:23] Test case passed for invalid without un
+[INFO] [17_08_22      08:23] Browser closed successfully
+[INFO] [03_11_22      08:26] 2022/11/03 08:26:21
+[INFO] [03_11_22      08:26] 1103082621
+[INFO] [03_11_22      08:26] All files are invoked successfully
+[INFO] [03_11_22      08:26] chrome failed to invoke due to org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 103
+Current browser version is 107.0.5304.88 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'WINDOWS-SBM5E6C', ip: '192.168.0.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00676463+2188387]
+	Ordinal0 [0x0060E461+1762401]
+	Ordinal0 [0x00523D78+802168]
+	Ordinal0 [0x00544E59+937561]
+	Ordinal0 [0x00540A6C+920172]
+	Ordinal0 [0x0053E331+910129]
+	Ordinal0 [0x00571430+1119280]
+	Ordinal0 [0x0057108A+1118346]
+	Ordinal0 [0x0056C5F6+1099254]
+	Ordinal0 [0x00546BE0+945120]
+	Ordinal0 [0x00547AD6+948950]
+	GetHandleVerifier [0x009171F2+2712546]
+	GetHandleVerifier [0x0090886D+2652765]
+	GetHandleVerifier [0x0070002A+520730]
+	GetHandleVerifier [0x006FEE06+516086]
+	Ordinal0 [0x0061468B+1787531]
+	Ordinal0 [0x00618E88+1805960]
+	Ordinal0 [0x00618F75+1806197]
+	Ordinal0 [0x00621DF1+1842673]
+	BaseThreadInitThunk [0x7658FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77917BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77917B8E+238]
+
+[INFO] [03_11_22      08:31] 2022/11/03 08:31:23
+[INFO] [03_11_22      08:31] 1103083123
+[INFO] [03_11_22      08:31] All files are invoked successfully
+[INFO] [03_11_22      08:31] chromeinvoked successfully
+[INFO] [03_11_22      08:31] https://uibank.uipath.com/invoked successfully
+[INFO] [03_11_22      08:31] Test case passed
+[INFO] [03_11_22      08:31] Browser closed successfully
+[INFO] [03_11_22      08:31] chromeinvoked successfully
+[INFO] [03_11_22      08:31] https://uibank.uipath.com/invoked successfully
+[INFO] [03_11_22      08:31] Test case passed for invalid without un
+[INFO] [03_11_22      08:31] Browser closed successfully
+[INFO] [03_11_22      08:31] chromeinvoked successfully
+[INFO] [03_11_22      08:31] https://uibank.uipath.com/invoked successfully
+[INFO] [03_11_22      08:32] Test case passed for invalid without un
+[INFO] [03_11_22      08:32] Browser closed successfully
+[INFO] [03_11_22      08:32] chromeinvoked successfully
+[INFO] [03_11_22      08:32] https://uibank.uipath.com/invoked successfully
+[INFO] [03_11_22      08:32] Test case passed for invalid without un
+[INFO] [03_11_22      08:32] Browser closed successfully
+[INFO] [03_11_22      08:32] chromeinvoked successfully
+[INFO] [03_11_22      08:32] https://uibank.uipath.com/invoked successfully
+[INFO] [03_11_22      08:32] Test case passed for invalid without un
+[INFO] [03_11_22      08:32] Browser closed successfully
+[INFO] [03_11_22      09:16] 2022/11/03 09:16:51
+[INFO] [03_11_22      09:16] 1103091651
+[INFO] [03_11_22      09:16] All files are invoked successfully
+[INFO] [03_11_22      09:16] chromeinvoked successfully
+[INFO] [03_11_22      09:16] https://uibank.uipath.com/invoked successfully
+[INFO] [03_11_22      09:17] Test case passed
+[INFO] [03_11_22      09:17] Browser closed successfully
+[INFO] [03_11_22      09:17] chromeinvoked successfully
+[INFO] [03_11_22      09:17] https://uibank.uipath.com/invoked successfully
+[INFO] [03_11_22      09:17] Test case passed for invalid without un
+[INFO] [03_11_22      09:17] Browser closed successfully
+[INFO] [03_11_22      09:17] chromeinvoked successfully
+[INFO] [03_11_22      09:17] https://uibank.uipath.com/invoked successfully
+[INFO] [03_11_22      09:17] Test case passed for invalid without un
+[INFO] [03_11_22      09:17] Browser closed successfully
+[INFO] [03_11_22      09:17] chromeinvoked successfully
+[INFO] [03_11_22      09:17] https://uibank.uipath.com/invoked successfully
+[INFO] [03_11_22      09:17] Test case passed for invalid without un
+[INFO] [03_11_22      09:17] Browser closed successfully
+[INFO] [03_11_22      09:17] chromeinvoked successfully
+[INFO] [03_11_22      09:17] https://uibank.uipath.com/invoked successfully
+[INFO] [03_11_22      09:17] Test case passed for invalid without un
+[INFO] [03_11_22      09:17] Browser closed successfully
+[INFO] [07_12_22      08:27] 2022/12/07 08:27:37
+[INFO] [07_12_22      08:27] 1207082737
+[INFO] [07_12_22      08:27] All files are invoked successfully
+[INFO] [07_12_22      08:27] chromeinvoked successfully
+[INFO] [07_12_22      08:27] https://uibank.uipath.com/invoked successfully
+[INFO] [07_12_22      08:27] Login Actions completed successfully
+[INFO] [07_12_22      08:27] Browser closed successfully
+[INFO] [08_12_22      08:38] 2022/12/08 08:38:12
+[INFO] [08_12_22      08:38] 1208083812
+[INFO] [08_12_22      08:38] All files are invoked successfully
+[INFO] [08_12_22      08:38] chromeinvoked successfully
+[INFO] [08_12_22      08:38] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      08:38] Test case passed
+[INFO] [08_12_22      08:38] Browser closed successfully
+[INFO] [08_12_22      08:38] chromeinvoked successfully
+[INFO] [08_12_22      08:38] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      08:38] Test case passed for invalid without un
+[INFO] [08_12_22      08:38] Browser closed successfully
+[INFO] [08_12_22      08:38] chromeinvoked successfully
+[INFO] [08_12_22      08:39] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      08:39] Test case passed for invalid without un
+[INFO] [08_12_22      08:39] Browser closed successfully
+[INFO] [08_12_22      08:39] chromeinvoked successfully
+[INFO] [08_12_22      08:39] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      08:39] Test case passed for invalid without un
+[INFO] [08_12_22      08:39] Browser closed successfully
+[INFO] [08_12_22      08:39] chromeinvoked successfully
+[INFO] [08_12_22      08:39] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      08:39] Test case passed for invalid without un
+[INFO] [08_12_22      08:39] Browser closed successfully
+[INFO] [08_12_22      08:49] 2022/12/08 08:49:44
+[INFO] [08_12_22      08:49] 1208084944
+[INFO] [08_12_22      08:49] All files are invoked successfully
+[INFO] [08_12_22      08:49]                                                                                           
+[INFO] [08_12_22      08:49]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [08_12_22      08:49]  ***************************************************************************************** 
+[INFO] [08_12_22      08:49] chromeinvoked successfully
+[INFO] [08_12_22      08:50] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      08:50] Test case passed
+[INFO] [08_12_22      08:50] Browser closed successfully
+[INFO] [08_12_22      08:50]  ######################################################################## 
+[INFO] [08_12_22      08:50]                                                                                           
+[INFO] [08_12_22      08:50]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [08_12_22      08:50]  ***************************************************************************************** 
+[INFO] [08_12_22      08:50] chromeinvoked successfully
+[INFO] [08_12_22      08:50] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      08:50] Test case passed for invalid without un
+[INFO] [08_12_22      08:50] Browser closed successfully
+[INFO] [08_12_22      08:50]  ######################################################################## 
+[INFO] [08_12_22      08:50]                                                                                           
+[INFO] [08_12_22      08:50]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [08_12_22      08:50]  ***************************************************************************************** 
+[INFO] [08_12_22      08:50] chromeinvoked successfully
+[INFO] [08_12_22      08:50] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      08:50] Test case passed for invalid without un
+[INFO] [08_12_22      08:50] Browser closed successfully
+[INFO] [08_12_22      08:50]  ######################################################################## 
+[INFO] [08_12_22      08:50]                                                                                           
+[INFO] [08_12_22      08:50]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [08_12_22      08:50]  ***************************************************************************************** 
+[INFO] [08_12_22      08:50] chromeinvoked successfully
+[INFO] [08_12_22      08:50] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      08:50] Test case passed for invalid without un
+[INFO] [08_12_22      08:50] Browser closed successfully
+[INFO] [08_12_22      08:50]  ######################################################################## 
+[INFO] [08_12_22      08:50]                                                                                           
+[INFO] [08_12_22      08:50]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [08_12_22      08:50]  ***************************************************************************************** 
+[INFO] [08_12_22      08:50] chromeinvoked successfully
+[INFO] [08_12_22      08:50] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      08:50] Test case passed for invalid without un
+[INFO] [08_12_22      08:50] Browser closed successfully
+[INFO] [08_12_22      08:50]  ######################################################################## 
+[INFO] [08_12_22      08:55] 2022/12/08 08:55:21
+[INFO] [08_12_22      08:55] 1208085521
+[INFO] [08_12_22      08:55] All files are invoked successfully
+[INFO] [08_12_22      08:55] chromeinvoked successfully
+[INFO] [08_12_22      08:55] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      08:55] Login Actions completed successfully
+[INFO] [08_12_22      08:55] Browser closed successfully
+[INFO] [08_12_22      09:09] 2022/12/08 09:09:22
+[INFO] [08_12_22      09:09] 1208090922
+[INFO] [08_12_22      09:09] All files are invoked successfully
+[INFO] [08_12_22      09:09]                                                                                           
+[INFO] [08_12_22      09:09]  --------------------------------- Test Case 1 -----------------------------------
+[INFO] [08_12_22      09:09]  ***************************************************************************************** 
+[INFO] [08_12_22      09:09] General information is printing 
+[INFO] [08_12_22      09:09]  Chrome browser invoked successfully
+[INFO] [08_12_22      09:09] Test case failed due to expected messages is differed 
+[INFO] [08_12_22      09:09] The given data is not correct, hence using this data for execution
+[INFO] [08_12_22      09:09] Data base filled hence further execution is not possible
+[INFO] [08_12_22      09:09]  ######################################################################## 
+[INFO] [08_12_22      09:09]                                                                                           
+[INFO] [08_12_22      09:09]  --------------------------------- Test Case 2 -----------------------------------
+[INFO] [08_12_22      09:09]  ***************************************************************************************** 
+[INFO] [08_12_22      09:09] General information is printing 
+[INFO] [08_12_22      09:09]  Chrome browser invoked successfully
+[INFO] [08_12_22      09:09] Test case failed due to expected messages is differed 
+[INFO] [08_12_22      09:09] The given data is not correct, hence using this data for execution
+[INFO] [08_12_22      09:09] Data base filled hence further execution is not possible
+[INFO] [08_12_22      09:09]  ######################################################################## 
+[INFO] [08_12_22      09:09]                                                                                           
+[INFO] [08_12_22      09:09]  --------------------------------- userID Field Validation -----------------------------------
+[INFO] [08_12_22      09:09]  ***************************************************************************************** 
+[INFO] [08_12_22      09:09] Chrome invoked successfully
+[INFO] [08_12_22      09:09] The gmail url https://gmail.com is invoked successfully
+[INFO] [08_12_22      09:09] Entered valid userName in the text box 
+[INFO] [08_12_22      09:09] Epected title is displaying in the gmail home page
+[INFO] [08_12_22      09:09] Entered Valid userName int he text box
+[INFO] [08_12_22      09:09] Expected title is not displaying hence, test case will fail
+[INFO] [08_12_22      09:09]  ######################################################################## 
+[INFO] [08_12_22      09:09] chromeinvoked successfully
+[INFO] [08_12_22      09:09] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      09:09] Login Actions completed successfully
+[INFO] [08_12_22      09:09] Browser closed successfully
+[INFO] [08_12_22      09:09]                                                                                           
+[INFO] [08_12_22      09:09]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [08_12_22      09:09]  ***************************************************************************************** 
+[INFO] [08_12_22      09:09] chromeinvoked successfully
+[INFO] [08_12_22      09:09] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      09:09] Test case passed
+[INFO] [08_12_22      09:09] Browser closed successfully
+[INFO] [08_12_22      09:09]  ######################################################################## 
+[INFO] [08_12_22      09:09]                                                                                           
+[INFO] [08_12_22      09:09]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [08_12_22      09:09]  ***************************************************************************************** 
+[INFO] [08_12_22      09:09] chromeinvoked successfully
+[INFO] [08_12_22      09:09] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      09:09] Test case passed for invalid without un
+[INFO] [08_12_22      09:09] Browser closed successfully
+[INFO] [08_12_22      09:09]  ######################################################################## 
+[INFO] [08_12_22      09:09]                                                                                           
+[INFO] [08_12_22      09:09]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [08_12_22      09:09]  ***************************************************************************************** 
+[INFO] [08_12_22      09:10] chromeinvoked successfully
+[INFO] [08_12_22      09:10] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      09:10] Test case passed for invalid without un
+[INFO] [08_12_22      09:10] Browser closed successfully
+[INFO] [08_12_22      09:10]  ######################################################################## 
+[INFO] [08_12_22      09:10]                                                                                           
+[INFO] [08_12_22      09:10]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [08_12_22      09:10]  ***************************************************************************************** 
+[INFO] [08_12_22      09:10] chromeinvoked successfully
+[INFO] [08_12_22      09:10] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      09:10] Test case passed for invalid without un
+[INFO] [08_12_22      09:10] Browser closed successfully
+[INFO] [08_12_22      09:10]  ######################################################################## 
+[INFO] [08_12_22      09:10]                                                                                           
+[INFO] [08_12_22      09:10]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [08_12_22      09:10]  ***************************************************************************************** 
+[INFO] [08_12_22      09:10] chromeinvoked successfully
+[INFO] [08_12_22      09:10] https://uibank.uipath.com/invoked successfully
+[INFO] [08_12_22      09:10] Test case passed for invalid without un
+[INFO] [08_12_22      09:10] Browser closed successfully
+[INFO] [08_12_22      09:10]  ######################################################################## 
+[INFO] [09_12_22      08:04] 2022/12/09 08:04:49
+[INFO] [09_12_22      08:04] 1209080449
+[INFO] [09_12_22      08:04] All files are invoked successfully
+[INFO] [09_12_22      08:04] chromeinvoked successfully
+[INFO] [09_12_22      08:05] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      08:05] Login Actions completed successfully
+[INFO] [09_12_22      08:05] Browser closed successfully
+[INFO] [09_12_22      08:58] 2022/12/09 08:58:38
+[INFO] [09_12_22      08:58] 1209085838
+[INFO] [09_12_22      08:58] All files are invoked successfully
+[INFO] [09_12_22      08:58] chromeinvoked successfully
+[INFO] [09_12_22      08:58] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      08:58] Login Actions completed successfully
+[INFO] [09_12_22      08:58] Browser closed successfully
+[INFO] [09_12_22      09:01] 2022/12/09 09:01:44
+[INFO] [09_12_22      09:01] 1209090144
+[INFO] [09_12_22      09:01] All files are invoked successfully
+[INFO] [09_12_22      09:01] chromeinvoked successfully
+[INFO] [09_12_22      09:01] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:01] Login Actions completed successfully
+[INFO] [09_12_22      09:01] Browser closed successfully
+[INFO] [09_12_22      09:01] All files are invoked successfully
+[INFO] [09_12_22      09:01]                                                                                           
+[INFO] [09_12_22      09:01]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [09_12_22      09:01]  ***************************************************************************************** 
+[INFO] [09_12_22      09:02] chromeinvoked successfully
+[INFO] [09_12_22      09:02] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:02] Test case passed
+[INFO] [09_12_22      09:02] Browser closed successfully
+[INFO] [09_12_22      09:02]  ######################################################################## 
+[INFO] [09_12_22      09:02]                                                                                           
+[INFO] [09_12_22      09:02]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [09_12_22      09:02]  ***************************************************************************************** 
+[INFO] [09_12_22      09:02] chromeinvoked successfully
+[INFO] [09_12_22      09:02] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:02] Test case passed for invalid without un
+[INFO] [09_12_22      09:02] Browser closed successfully
+[INFO] [09_12_22      09:02]  ######################################################################## 
+[INFO] [09_12_22      09:02]                                                                                           
+[INFO] [09_12_22      09:02]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [09_12_22      09:02]  ***************************************************************************************** 
+[INFO] [09_12_22      09:02] chromeinvoked successfully
+[INFO] [09_12_22      09:02] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:02] Test case passed for invalid without un
+[INFO] [09_12_22      09:02] Browser closed successfully
+[INFO] [09_12_22      09:02]  ######################################################################## 
+[INFO] [09_12_22      09:02]                                                                                           
+[INFO] [09_12_22      09:02]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [09_12_22      09:02]  ***************************************************************************************** 
+[INFO] [09_12_22      09:02] chromeinvoked successfully
+[INFO] [09_12_22      09:02] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:02] Test case passed for invalid without un
+[INFO] [09_12_22      09:02] Browser closed successfully
+[INFO] [09_12_22      09:02]  ######################################################################## 
+[INFO] [09_12_22      09:02]                                                                                           
+[INFO] [09_12_22      09:02]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [09_12_22      09:02]  ***************************************************************************************** 
+[INFO] [09_12_22      09:02] chromeinvoked successfully
+[INFO] [09_12_22      09:02] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:03] Test case passed for invalid without un
+[INFO] [09_12_22      09:03] Browser closed successfully
+[INFO] [09_12_22      09:03]  ######################################################################## 
+[INFO] [09_12_22      09:08] 2022/12/09 09:08:17
+[INFO] [09_12_22      09:08] 1209090817
+[INFO] [09_12_22      09:08] All files are invoked successfully
+[INFO] [09_12_22      09:08] chromeinvoked successfully
+[INFO] [09_12_22      09:08] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:08] Login Actions completed successfully
+[INFO] [09_12_22      09:08] Browser closed successfully
+[INFO] [09_12_22      09:08] All files are invoked successfully
+[INFO] [09_12_22      09:08]                                                                                           
+[INFO] [09_12_22      09:08]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [09_12_22      09:08]  ***************************************************************************************** 
+[INFO] [09_12_22      09:08] chromeinvoked successfully
+[INFO] [09_12_22      09:08] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:08] Test case passed
+[INFO] [09_12_22      09:08] Browser closed successfully
+[INFO] [09_12_22      09:08]  ######################################################################## 
+[INFO] [09_12_22      09:08]                                                                                           
+[INFO] [09_12_22      09:08]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [09_12_22      09:08]  ***************************************************************************************** 
+[INFO] [09_12_22      09:08] chromeinvoked successfully
+[INFO] [09_12_22      09:08] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:08] Test case passed for invalid without un
+[INFO] [09_12_22      09:08] Browser closed successfully
+[INFO] [09_12_22      09:08]  ######################################################################## 
+[INFO] [09_12_22      09:08]                                                                                           
+[INFO] [09_12_22      09:08]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [09_12_22      09:08]  ***************************************************************************************** 
+[INFO] [09_12_22      09:08] chromeinvoked successfully
+[INFO] [09_12_22      09:09] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:09] Test case passed for invalid without un
+[INFO] [09_12_22      09:09] Browser closed successfully
+[INFO] [09_12_22      09:09]  ######################################################################## 
+[INFO] [09_12_22      09:09]                                                                                           
+[INFO] [09_12_22      09:09]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [09_12_22      09:09]  ***************************************************************************************** 
+[INFO] [09_12_22      09:09] chromeinvoked successfully
+[INFO] [09_12_22      09:09] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:09] Test case passed for invalid without un
+[INFO] [09_12_22      09:09] Browser closed successfully
+[INFO] [09_12_22      09:09]  ######################################################################## 
+[INFO] [09_12_22      09:09]                                                                                           
+[INFO] [09_12_22      09:09]  --------------------------------- Login Actions for Multiple Data -----------------------------------
+[INFO] [09_12_22      09:09]  ***************************************************************************************** 
+[INFO] [09_12_22      09:09] chromeinvoked successfully
+[INFO] [09_12_22      09:09] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:09] Test case passed for invalid without un
+[INFO] [09_12_22      09:09] Browser closed successfully
+[INFO] [09_12_22      09:09]  ######################################################################## 
+[INFO] [09_12_22      09:12] 2022/12/09 09:12:49
+[INFO] [09_12_22      09:12] 1209091249
+[INFO] [09_12_22      09:12] All files are invoked successfully
+[INFO] [09_12_22      09:12] chromeinvoked successfully
+[INFO] [09_12_22      09:12] https://uibank.uipath.com/invoked successfully
+[INFO] [09_12_22      09:13] Login Actions completed successfully
+[INFO] [09_12_22      09:13] Browser closed successfully
+[INFO] [12_12_22      08:11] 2022/12/12 08:11:52
+[INFO] [12_12_22      08:11] 1212081152
+[INFO] [12_12_22      08:11] All files are invoked successfully
+[INFO] [12_12_22      08:11] chromeinvoked successfully
+[INFO] [12_12_22      08:12] https://uibank.uipath.com/invoked successfully
+[INFO] [12_12_22      08:12] Login Actions completed successfully
+[INFO] [12_12_22      08:12] Browser closed successfully
+[INFO] [19_12_22      08:37] 2022/12/19 08:37:06
+[INFO] [19_12_22      08:37] 1219083706
+[INFO] [19_12_22      08:37] All files are invoked successfully
+[INFO] [19_12_22      08:37] chromeinvoked successfully
+[INFO] [19_12_22      08:37] https://uibank.uipath.com/invoked successfully
+[INFO] [19_12_22      08:37] Login Actions completed successfully
+[INFO] [19_12_22      08:37] Browser closed successfully
+[INFO] [19_12_22      09:23] 2022/12/19 09:23:22
+[INFO] [19_12_22      09:23] 1219092322
+[INFO] [19_12_22      09:23] All files are invoked successfully
+[INFO] [19_12_22      09:23] chromeinvoked successfully
+[INFO] [19_12_22      09:23] https://uibank.uipath.com/invoked successfully
+[INFO] [19_12_22      09:23] Login Actions completed successfully
+[INFO] [19_12_22      09:23] Browser closed successfully
+[INFO] [19_12_22      09:23] 2022/12/19 09:23:52
+[INFO] [19_12_22      09:23] 1219092352
+[INFO] [19_12_22      09:23] All files are invoked successfully
+[INFO] [19_12_22      09:23] chromeinvoked successfully
+[INFO] [19_12_22      09:23] https://uibank.uipath.com/invoked successfully
+[INFO] [19_12_22      09:24] Login Actions completed successfully
+[INFO] [19_12_22      09:24] Browser closed successfully
+[INFO] [19_12_22      09:25] 2022/12/19 09:25:10
+[INFO] [19_12_22      09:25] 1219092510
+[INFO] [19_12_22      09:25] All files are invoked successfully
+[INFO] [19_12_22      09:25] chromeinvoked successfully
+[INFO] [19_12_22      09:25] https://uibank.uipath.com/invoked successfully
+[INFO] [19_12_22      09:25] Login Actions completed successfully
+[INFO] [19_12_22      09:25] Browser closed successfully
+[INFO] [20_12_22      08:51] 2022/12/20 08:51:52
+[INFO] [20_12_22      08:51] 1220085152
+[INFO] [20_12_22      08:51] All files are invoked successfully
+[INFO] [20_12_22      08:52] chromeinvoked successfully
+[INFO] [20_12_22      08:52] https://uibank.uipath.com/invoked successfully
+[INFO] [20_12_22      08:52] Login Actions completed successfully
+[INFO] [20_12_22      08:52] Browser closed successfully
