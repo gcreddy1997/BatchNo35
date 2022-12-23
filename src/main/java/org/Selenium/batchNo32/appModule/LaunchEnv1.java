@@ -17,7 +17,7 @@ public class LaunchEnv1 extends BaseClass {
 
 	public static boolean BrowserInvocation(String Browser) {
 			 flag = false;
-			 System.out.println (Browser);
+			
 			try {
 			 if(Browser.equalsIgnoreCase("chrome")) {
 				 System.setProperty("webdriver.chrome.driver", Constant.chromepath);
@@ -28,14 +28,16 @@ public class LaunchEnv1 extends BaseClass {
 				 System.setProperty("webdriver.gecko.driver", "");
 				 driver = new FirefoxDriver();
 				 }
+			
 			 flag=true;
 			 Log.info(Browser +"invoked successfully");
 			 Reports.pass("Browser Invocaiton", Browser+ "invoked successfully");
 		}catch(Exception e) {
 			Log.info(Browser +" failed to invoke due to "+ e.fillInStackTrace().toString());
-			Reports.fail("Browser Invocation", Browser + "invocation failed due to "+e.toString(), "");			 		 
+			Reports.fail("Browser Invocation", Browser + "invocation failed due to "+e.toString(), "");		
+			
 		}	
-	
+	System.out.println(Browser);
 
 	return flag;
 }
